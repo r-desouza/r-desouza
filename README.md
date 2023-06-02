@@ -1,6 +1,6 @@
 # Hi hi 👋, I'm Rafa
 
-- 📫 How to reach me desouza.rafael010@gmail.com\
+- 📫 How to reach me desouza.rafael010@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-desouza&layout=compact)
 
